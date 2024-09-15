@@ -1,6 +1,6 @@
 # DIF Africa SIG
 
-Welcome! We'd love to collaborate with you. See [Contributing](contributing.md) for details.
+Welcome! We'd love to collaborate with you.
 
 [Other basic group information]
 
