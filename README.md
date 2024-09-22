@@ -2,11 +2,12 @@
 
 Welcome! We'd love to collaborate with you.
 
-[Other basic group information]
-
 - [Charter](charter.md)
 - Schedule
-  - Meeting times: [list meeting times]
+  - Meeting times: Every third Wednesday at 10AM South Africa Standard Time
+  - [DIF Africa SIG Calendar link](https://calendar.app.google/9Pskaormfd8A5YKu9)
   - [DIF shared calendar](https://calendar.google.com/calendar/u/0/embed?src=decentralized.identity@gmail.com)
-- Meeting archive: [link to past meetings]
-- [Link to group communication channel (Discord, etc)]
+- Meeting archive: [link to past meetings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit?gid=1587391553#gid=1587391553)
+- Group Communication Channels: DIF Discord #africa-sig channel [Invite link](https://discord.gg/wAk4FtRK)
+- Group Work Location:
+  - [DIF Africa SIG Shared Drive](https://drive.google.com/drive/folders/1Yg9BhGAu92ZzvTPWiRNaxfa3Ju6P7bE1?usp=drive_link)
