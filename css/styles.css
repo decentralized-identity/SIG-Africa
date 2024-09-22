@@ -302,6 +302,11 @@ h5 {
   background-size: cover;
 }
 
+.icon-link[href*="discord"]:before {
+  background: url(/icons/communicate_user.svg);
+  background-size: cover;
+}
+
 .icon-link[href*="lists.identity.foundation"]:before {
   background: url(/icons/mail.svg);
   background-size: cover;
@@ -313,6 +318,11 @@ h5 {
 }
 
 .icon-link[href*="calendar.google.com"]:before {
+  background: url(/icons/calendar.svg);
+  background-size: cover;
+}
+
+.icon-link[href*="calendar.app.google"]:before {
   background: url(/icons/calendar.svg);
   background-size: cover;
 }
